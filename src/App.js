@@ -10,9 +10,6 @@ function App() {
           Hey this is me!!! and Me too!!! And also me!!!
         </p>
         <p>
-	  I just added a new line
-        </p>
-        <p>
 	  I just added another line
         </p>
         <a
