@@ -12,6 +12,9 @@ function App() {
         <p>
 	  I just added a new line
         </p>
+        <p>
+	  I just added another line
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
